@@ -7,7 +7,9 @@ Creamos una lista
 
 ## Si quieres añadir algo a este repositorio:
  
-Mandame un correo para obtener permiso y una vez lo tengas
+Mandame un correo para obtener permiso a ruben.2004.esp@gmail.com
+
+Una vez lo tengas -->
 
 Clona este repositorio con:
 
