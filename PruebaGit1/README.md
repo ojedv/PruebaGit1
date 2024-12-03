@@ -1,11 +1,11 @@
-#Prueba de Lenguaje Markdown 
+# Prueba de Lenguaje Markdown 
 
 Creamos una lista
--1 opcion
--2 opcion
--3 opcion
+- 1 opcion
+- 2 opcion
+- 3 opcion
 
-##Si quieres añadir algo a este repositorio:
+## Si quieres añadir algo a este repositorio:
  
 Mandame un correo para obtener permiso y una vez lo tengas
 
